@@ -1,3 +1,3 @@
 # `shlex.quote` for safe shell interpolation
 
-Small detail that bit me today. Five minutes of confusion saved becomes hours over a year if I just write it down once.
+Was reading docs and this jumped out. Posting it raw, will expand later if it turns out to matter.
