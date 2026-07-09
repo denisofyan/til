@@ -1,3 +1,3 @@
 # `pathlib.Path.read_text()` encoding pitfalls
 
-Was reading docs and this jumped out. Posting it raw, will expand later if it turns out to matter.
+Saw this come up while debugging. The behavior was different than I assumed. Worth a proper write-up when I have time — for now, a one-liner.
