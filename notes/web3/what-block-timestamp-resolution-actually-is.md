@@ -1,3 +1,3 @@
 # What `block.timestamp` resolution actually is
 
-Was reading docs and this jumped out. Posting it raw, will expand later if it turns out to matter.
+Something I want to come back to later. Posting the bare hook here so future-me has a thread to pull on. No deep dive yet, just a marker.
