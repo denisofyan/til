@@ -1,3 +1,3 @@
 # `sudo -E` to preserve env vars
 
-Saw this come up while debugging. The behavior was different than I assumed. Worth a proper write-up when I have time — for now, a one-liner.
+Something I want to come back to later. Posting the bare hook here so future-me has a thread to pull on. No deep dive yet, just a marker.
