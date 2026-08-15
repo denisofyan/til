@@ -1,3 +1,3 @@
 # `systemd-run --user --on-calendar` as a cron alternative
 
-Saw this come up while debugging. The behavior was different than I assumed. Worth a proper write-up when I have time — for now, a one-liner.
+Pattern I keep re-discovering. Writing it down so the next time it shows up I don't have to re-derive it from first principles.
