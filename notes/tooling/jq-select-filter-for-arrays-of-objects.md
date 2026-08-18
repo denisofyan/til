@@ -1,3 +1,3 @@
 # Jq `select` filter for arrays of objects
 
-Small detail that bit me today. Five minutes of confusion saved becomes hours over a year if I just write it down once.
+Pattern I keep re-discovering. Writing it down so the next time it shows up I don't have to re-derive it from first principles.
