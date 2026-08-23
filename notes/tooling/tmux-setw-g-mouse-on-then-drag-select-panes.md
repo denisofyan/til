@@ -1,3 +1,3 @@
 # Tmux `setw -g mouse on` then drag-select panes
 
-Something I want to come back to later. Posting the bare hook here so future-me has a thread to pull on. No deep dive yet, just a marker.
+Small detail that bit me today. Five minutes of confusion saved becomes hours over a year if I just write it down once.
