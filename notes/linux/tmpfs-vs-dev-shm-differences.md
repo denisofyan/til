@@ -1,3 +1,3 @@
 # Tmpfs vs /dev/shm differences
 
-Pattern I keep re-discovering. Writing it down so the next time it shows up I don't have to re-derive it from first principles.
+Was reading docs and this jumped out. Posting it raw, will expand later if it turns out to matter.
